@@ -11,5 +11,4 @@
 
 * [Deployer Details](technical-info/deployer-details.md)
 * [Deployed Contracts](technical-info/deployed-contracts.md)
-* [Smart Contract Interfaces](technical-info/smart-contract-interfaces.md)
 
