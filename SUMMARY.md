@@ -11,4 +11,5 @@
 
 * [Deployer Details](technical-info/deployer-details.md)
 * [Deployed Contracts](technical-info/deployed-contracts.md)
+* [Contract ABIs](technical-info/contract-abis.md)
 
