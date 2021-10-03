@@ -25,7 +25,7 @@ Polygon:
 ### Wallet Helper
 
 Ethereum:  
-Binance Smart Chain:   
+Binance Smart Chain: `0xC394AdD418f15D9b91A821AAd3A81Fd8D4618ceb`  
 Polygon:
 
 
